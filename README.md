@@ -1,2 +1,2 @@
 # Invoice generator
-This project involves generating pdf from excel file
+A script that reads invoice records from Excel files and automatically generates PDF invoices.
